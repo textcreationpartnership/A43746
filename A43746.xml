@@ -1,0 +1,768 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Institutions, or, Advice to his grandson in three parts / by William Higford ...</title>
+            <author>Higford, William, 1581?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43746</idno>
+            <idno type="STC">Wing H1947</idno>
+            <idno type="STC">ESTC R34464</idno>
+            <idno type="EEBO-CITATION">14445304</idno>
+            <idno type="OCLC">ocm 14445304</idno>
+            <idno type="VID">102360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1060:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Institutions, or, Advice to his grandson in three parts / by William Higford ...</title>
+                  <author>Higford, William, 1581?-1657.</author>
+               </titleStmt>
+               <extent>[13], 97 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Edmund Thorn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLVIII [1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="errata">
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:102360:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:102360:1"/>
+            <pb facs="tcp:102360:2"/>
+            <head>Corrigenda &amp; mutanda.</head>
+            <p>Pag. 45. lin. 11. lege <hi>ab aliis diſsidet.</hi> 47.21. <hi>tranſlatio noſtra.</hi> 105.4. <hi>omneſue ad unumferè.</hi> Nam ſunt in<g ref="char:EOLhyphen"/>ter Reformatos, qui de lectione hujus nominis non male ſenti<g ref="char:EOLhyphen"/>ant: quos aliquando nominabo, ſi à me nominari volent. <hi>107.7. Loca ubi Iehova</hi> &amp;c. Tota haec notatio deleri poſſet, <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uum antea verbis Merceri cadem dicta ſint.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:102360:2"/>
+            <p>
+               <hi>INSTITUTIONS</hi> OR ADVICE TO HIS GRANDSON, In Three Parts.</p>
+            <p>By <hi>William Higford</hi> Eſq</p>
+            <q>
+               <p>Diſce Puer virtutem ex me.</p>
+               <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Edmund Thor<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Oxford. MDCLVIII.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102360:3"/>
+            <pb facs="tcp:102360:3"/>
+            <head>To his Noble friend <hi>Iohn Higford</hi> Eſq;</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have, by your per<g ref="char:EOLhyphen"/>miſſion, gathered out of your Manu<g ref="char:EOLhyphen"/>ſcript, what I con<g ref="char:EOLhyphen"/>ceive to be fitteſt for the pub<g ref="char:EOLhyphen"/>lick uſe.</p>
+            <p>Young Gentlemen, who ſhal read this, will acknowledge your favour in imparting it: And I ſhall think my pains well requited, if they pleaſe to
+<pb facs="tcp:102360:4"/> take the good Advice hum<g ref="char:EOLhyphen"/>bly preſented to them from the Noble and Learned Au<g ref="char:EOLhyphen"/>thor, under your beloved Name, by the Tranſcriber.</p>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:102360:4"/>
+            <head>Epitaphium Gulielmi Higford.</head>
+            <l>HIc jacet Higfordus. Quis? Saxo ſuffici<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>i</l>
+            <l>Inſcriptum Nomen. Caetera Fama docet.</l>
+            <l>Higford <hi>lyes here: we onely write his Name</hi>
+            </l>
+            <l>
+               <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon the Grave, and leave the reſt to Fame.</hi>
+            </l>
+         </div>
+         <div type="encomium">
+            <head>Fama loquitur.</head>
+            <lg>
+               <l>Give me my Trumpet that I may proclaim,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>b laſting ſounds the Noble <hi>Higfords</hi> Name:</l>
+               <l>That this ungrateful world may know He's gone,</l>
+               <l>And know whom they have loſt. For he was one</l>
+               <l>Whom onely few, that is, the wiſe did know,</l>
+               <l>And rightly value, while he liv'd: but now</l>
+               <l>All muſt lament and love. So the ſun's light</l>
+               <l>It eſtimate by the dark ſhade of night.</l>
+            </lg>
+            <lg>
+               <l>He was a light indeed: when he drew nigh,</l>
+               <l>And with his beams ſhin'd on our Company,</l>
+               <l>All clouded brows were clear'd, and every Face</l>
+               <l>Tis beautify'd with ſmiles; ſuch comely Grace</l>
+               <pb facs="tcp:102360:5"/>
+               <l>Appear'd in his behaviour; ſuch true wit,</l>
+               <l>Sharp wit, but inoffenſive, alwayes fit</l>
+               <l>For the occaſion and the perſons, ſtill</l>
+               <l>Mingled with his diſcourſe; <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ad wit at will.</l>
+            </lg>
+            <lg>
+               <l>And Learning too he had in readineſſe,</l>
+               <l>Such as his Book conteins, worthy o'th preſſe,</l>
+               <l>His Manuſcript to his <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s ſon. O when</l>
+               <l>Will it come forth, for th' uſe of Gentlemen!</l>
+            </lg>
+            <lg>
+               <l>He was wel read in Books, and Men; both theſe,</l>
+               <l>Study'd, made what he ſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ke or wrote to pleaſe:</l>
+               <l>Old Authors he lov'd beſt; and well he knew</l>
+               <l>The Old Religion from the late and n<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</l>
+               <l>And though he read and honour'd <hi>Bellarmine</hi>
+               </l>
+               <l>And great <hi>Aquinas,</hi> he did not decline</l>
+               <l>From th' Engliſh Church, but held fast to his death</l>
+               <l>The Reformation of Queen <hi>Elzabeth,</hi>
+               </l>
+               <l>Wherein he had been bred; ever the ſame;</l>
+               <l>Warping neither to <hi>Rome</hi> nor <hi>Amſterdam.</hi>
+               </l>
+               <l>One note of his Religious minde take hence</l>
+               <l>(Exemplar to us all) his Patience.</l>
+            </lg>
+            <lg>
+               <l>Among his Papers, Gather what his Muſe</l>
+               <l>Hath left us in remembrance ('twas his uſe)</l>
+               <l>Of Honour'd perſons; <hi>Chandos, Button,</hi> do</l>
+               <l>Live in his Verſes ſtill, and <hi>Capel</hi> too.</l>
+            </lg>
+            <lg>
+               <l>Let <hi>Higford</hi> alſo live with them; His Name</l>
+               <l>With laſting ſounds my Trumpet ſhall proclaim.</l>
+            </lg>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:102360:5"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">M</seg>An is a proud Creature, am<g ref="char:EOLhyphen"/>bitious of Immortality; but it is denyed him by the immutable Law of God edicted a<g ref="char:EOLhyphen"/>gainſt all fleſh, Once to dye.</p>
+            <q>Omnia mors poſcit; lex eſt non poena perire.</q>
+            <p>But yet he ſolaceth himſelf with a phanſy of Immortality, at leaſt<g ref="char:EOLhyphen"/>wiſe to live <hi>in ſpecie,</hi> and by his Po<g ref="char:EOLhyphen"/>ſterity, more conſpicuouſly in his Firſt-born to recontinue his memo<g ref="char:EOLhyphen"/>ry: <hi>Haeres eſt alter ipſe</hi> (ſaith Sy<g ref="char:EOLhyphen"/>racides) <hi>&amp; filius eſt pars patris:
+<pb facs="tcp:102360:6"/> mortuus eſt pater, &amp; quaſi non eſt mortuus, quia reliquit ſimilem ſibi.</hi>
+            </p>
+            <p>The Application, Dear Coſin, re<g ref="char:EOLhyphen"/>flecteth upon you. You are to me both my Coſin and my Son, my Co<g ref="char:EOLhyphen"/>ſin by the remotion of a degree, but my Son according to the Civil Law, <hi>Jure repraeſentationis,</hi> becauſe you repreſent the perſon of my dear Son, your late Father, now with God: ſo that in you are inveſted all his Rights and Prerogatives of Birth, and upon you (by Gods mercy) it likely to deſcend all the Honour (if any ſuch be) right and travel of our Anceſters, and in you we all muſt live.</p>
+            <p>And becauſe, in this your abſence from <hi>Dixton,</hi> I cannot impart my ſolicitous thoughts unto you, nor ac<g ref="char:EOLhyphen"/>quit my ſelf of that reciprocal duty I owe you, nor manifeſt the entire
+<pb facs="tcp:102360:6"/> affection which I bear you by perſonal conference; love muſt creep where it cannot go: and therefore not knowing otherwiſe how to make my approaches unto you, I have framed and dedicated unto you this enſuing addreſſe, that it may be (if worthy your peruſal a ſupport to your ten<g ref="char:EOLhyphen"/>der youth, apt to ſlip, and a Guide un<g ref="char:EOLhyphen"/>to you in this your journey upon earth, and alſo a Preſent or Token of my love unto you upon the entrance of this new year, which together with the whole courſe of your life, I hear<g ref="char:EOLhyphen"/>tily pray may be ſucceſſefull and hap<g ref="char:EOLhyphen"/>py.</p>
+            <p>
+               <hi>Machiavel</hi> in his third book of his Decads upon <hi>Livy.</hi> ch. <hi>34.</hi> a book which I would recommend un<g ref="char:EOLhyphen"/>to to you in his due time, for I am not of the opinion of thoſe rigid Divines, that place ſo deep a ſearcher into Hi<g ref="char:EOLhyphen"/>ſtories
+<pb facs="tcp:102360:7"/> and Roman Antiquities a<g ref="char:EOLhyphen"/>mongſt their Apocrypha books) re<g ref="char:EOLhyphen"/>counteth that in the inſtitution of a young Nobleman or Gentleman (for Gentlemen are <hi>Nobiles minores</hi>) three things are very conſidera<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="1">
+               <hi>1.</hi> That he deſcend from worthy parents; for that will be preſumed, that Children will be ſuch as their parents were (until the contrary doth appear.)</p>
+            <q>Fortes creantur fortibus &amp; bonis.</q>
+            <p n="2">
+               <hi>2.</hi> The choice of his Company and Converſe; for this doth very much demonſtrate what the perſon is in his <hi>Genius</hi> and diſpoſition, as <hi>Syracides</hi> well obſerveth: <hi>All fleſh will reſort unto their like, and eve<g ref="char:EOLhyphen"/>ry man will keep company with ſuch as himſelf.</hi>
+            </p>
+            <p n="3">
+               <pb facs="tcp:102360:7"/>
+               <hi>3.</hi> That he be very carefull, how he demean himſelf in the entrance of his youth that he act nothing, which ſhall be vile, ſluggiſh or re<g ref="char:EOLhyphen"/>miſs: but that his actions ſavour of quickneſſe and magnanimity: and if opportunity invite him thereunto, that he undertake ſome noble Eſſay, <hi>aliquod egregium facinus,</hi> ſome notable adventure, thereby to give reputation and luſtre unto his ſubſe<g ref="char:EOLhyphen"/>quent life.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:102360:8"/>
+            <pb n="1" facs="tcp:102360:8"/>
+            <head>INSTITUTIONS OR ADVICE TO HIS GRANDSON. The Firſt Part.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>OSCE TEIPSUM</hi> was a document in eſpecial e<g ref="char:EOLhyphen"/>ſteem amongſt the anci<g ref="char:EOLhyphen"/>ent Philoſophers, and to know your Origin and birth is to
+<pb n="2" facs="tcp:102360:9"/> know a good part of your ſelf.</p>
+            <p>I have in my cuſtody ſix Offices or Inquiſitions <hi>in ſerie</hi> (which alſo are tranſcribed into the ſeveral Of<g ref="char:EOLhyphen"/>fices at <hi>London</hi>) all which I will take care faithfully to leave unto you, becauſe it ſhall not be through my default, that you loſe any of your juſt rights either in honour or profit: theſe Offices and the quiet enjoyment of your Anceſtors en<g ref="char:EOLhyphen"/>ſuing thereupon, being in truth the very Nerves and Sinews of your eſtate, and the Conduits whereby it doth appear how their blood runneth in your veins, of all which I ſhall be ready to give you an ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>But I beſeech you (this your de<g ref="char:EOLhyphen"/>ſcent be it what it will) that you make no boaſting or oſtentation thereof, or compariſons with o<g ref="char:EOLhyphen"/>ther Gentlemen; than which no<g ref="char:EOLhyphen"/>thing
+<pb n="3" facs="tcp:102360:9"/> is more vile or putid: but lay it aſide by you to vindicate you from indignities and affronts, and when you finde your ſelf diſpara<g ref="char:EOLhyphen"/>ged, or the title of your land que<g ref="char:EOLhyphen"/>ſtioned, then with modeſty (the comelieſt ornament of youth) and with ſuch weapons as are left unto you, defend the ſame. Let up<g ref="char:EOLhyphen"/>ſtarts and buyers of honour bragg and boaſt.</p>
+            <q>Pervia dant vada plus murmin is, alta nihil.</q>
+            <p>Armories have ſuffixed unto them Mottoes or ſhort ſentences: and that which your Anceſtors have long uſed is,
+<q>VIRTUS VERUS HONOS.</q>
+            </p>
+            <p>By which it doth appear, that
+<pb n="4" facs="tcp:102360:10"/> unleſs you imitate their virtues, you cannot participate their honours. Without virtue, honour is but a falſe gloſſe: for Titles of honour do not ennoble men, but worthy men ennoble their Titles of Ho<g ref="char:EOLhyphen"/>nour.</p>
+            <q>Virtute decet non ſanguine niti.</q>
+            <p>This Honour, though it be a character indelible, which cannot be loſt, but by your own default; yet it will be much impaired and in effect loſt, neither can it be well preſerved, without the preſervati<g ref="char:EOLhyphen"/>on of your eſtate alſo. They are like two twins, inſeparable, born together, and muſt live and dye to<g ref="char:EOLhyphen"/>gether.</p>
+            <q>
+               <pb n="5" facs="tcp:102360:10"/>Vnijugis vitae eſt una, neciſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dies.</q>
+            <p>Poverty and Honour are very unſutable Companions. Every Acre of land you ſell, you loſe in proportion ſo much gentile blood: And therefore you may take no<g ref="char:EOLhyphen"/>tice that you are but <hi>Fiduciarius,</hi> that is (according to the Civill Law) a Truſtee for others: and that Piety which your Anceſtors had to preſerve an Eſtate for you, you are to extend the ſame unto thoſe who ſhall ſucceed you. If you diſſipate, you break that tacit and implicit Truſt, which ſo many Anceſtors, in ſo many Ages, have repoſed in you.</p>
+            <p>Now to preſerve an Eſtate is an Art and skill, as <hi>Ovid</hi> telleth you:</p>
+            <q>
+               <pb n="6" facs="tcp:102360:11"/>
+               <l>Non minor eſt virtus, quàm quaere<g ref="char:EOLhyphen"/>re, parta tueri:</l>
+               <l>Caſus ineſt illis, hic erit artis opus:</l>
+            </q>
+            <p>The virtue which beſt condu<g ref="char:EOLhyphen"/>ceth to this end, is the moſt excel<g ref="char:EOLhyphen"/>lent virtue Parſimony, I mean the <hi>medium</hi> between <hi>nimium</hi> and <hi>parum,</hi> ſordid Avarice, and pro<g ref="char:EOLhyphen"/>fuſe Prodigality. <hi>Cato</hi> being de<g ref="char:EOLhyphen"/>manded what was the greateſt Revenue, made Anſwer, <hi>Maxi<g ref="char:EOLhyphen"/>mum vectigal Parſimonia.</hi> Uſe Parſimony betimes before a waſt be made, for Seneca tells you, <hi>Sera eſt in fundo Parſimonia.</hi>
+            </p>
+            <p>In reſpect of the diſtance of years which is between us, you are very likely to be Maſter of your Eſtate, in part or in whole, betimes, yea in the very entrance of your youth.</p>
+            <p>The Civil Law limiting the majority of Males at the Age of
+<pb n="7" facs="tcp:102360:11"/> 25. better provideth for the ſecu<g ref="char:EOLhyphen"/>rity of Eſtates than the Common Law of our Land, which appoint<g ref="char:EOLhyphen"/>eth the full Age at 21. More Fa<g ref="char:EOLhyphen"/>milies, I dare ſay, have decayed, or at leaſt received the deadly wound in this intervall, which is but four years, than in all other years of mans life. Be not there<g ref="char:EOLhyphen"/>fore too jolly at the firſt, nor apt to be blown by Paraſites and Flatte<g ref="char:EOLhyphen"/>rers (the bane of youth, who as Summer birds, but withall birds of prey, do allwayes reſort to the Spring of an Eſtate) that your eſtate is greater than it is: this hath deceived many. Make your ſelf rather leſs then you are. Good grounds of Frugality at firſt once well lay'd will make your Eſtate continue firm and ſtable.</p>
+            <q>
+               <pb n="8" facs="tcp:102360:12"/>Dimidium facti, qui bene coepit, habet.</q>
+            <p>Land, by which a man is fed, is moſt honourable: mony (as <hi>Syracides</hi> hath it) <hi>anſwereth all things,</hi> but 'tis not ſo honourable, and more caſual. Land and mony ſort beſt together. If you cannot ſet your land, you may ſtock it. When it is more profitable for you to diſtock, you can take your beſt market. Caſt your ſelf once behind, whereby you muſt be in<g ref="char:EOLhyphen"/>forced to recieve your Rents be<g ref="char:EOLhyphen"/>fore they are due, or to engage your Tenants and ſervants, it is wonderfull what wayes and pro<g ref="char:EOLhyphen"/>jects will be layd to keep you down.</p>
+            <p>Riches may be well compared unto Ciſternes or Pooles, which a
+<pb n="9" facs="tcp:102360:12"/> ſmall ſtream will eaſily fill, if there be no leaks or waſts, but ſmall waſts and expences conti<g ref="char:EOLhyphen"/>nuing, and not prevented, have decieved, and undone many, no man knoweth how. Look to your exports, as well as your Imports, and ſo prevent growing miſchiefs. <hi>Idem facit ſentina neglecta, quod flumen irruens. Iſta levia noli con<g ref="char:EOLhyphen"/>temnere. Qui ſpernit modica, pau<g ref="char:EOLhyphen"/>latim decidet.</hi>
+            </p>
+            <p>The Antient Hiſtorians agree that by this Vertue Parſimony moſt eſpecially, the State of <hi>Rome</hi> came to Soveraignty over the whole World. <hi>Quintus Cincinna<g ref="char:EOLhyphen"/>tus</hi> was taken from the Plough and made Dictator, and at the end of his Dictatorſhip returned to the Plough again. But the Roman State, after the conqueſt of Aſia being rotten with luxury, and the
+<pb n="10" facs="tcp:102360:13"/> delicacies thereof <hi>(prope ad ſum<g ref="char:EOLhyphen"/>mum prope ad exitum)</hi> fell as faſt, and at laſt reſting <hi>in ſinu imperato<g ref="char:EOLhyphen"/>ris,</hi> the whole Roman Empire was not ſufficient to ſatiate the throat of one Man, as did well appear in thoſe Monſters of men, <hi>Vitellius</hi> and <hi>Heliogabalus.</hi>
+            </p>
+            <p>But what do we ſeek for exam<g ref="char:EOLhyphen"/>ples of Parſimony ſo antient &amp; re<g ref="char:EOLhyphen"/>mote, when you have ſo lively one of your own. Your worthy Mother, you ſee, bred up in all affluence, denyeth herſelf all the conveniences and contentments becoming her ſex and Honour. What to do? to give your ſelf and Brothers a Vertuous Education. Certainly, you will much degene<g ref="char:EOLhyphen"/>rate, if you comply not with Her in ſo eminent a vertue.</p>
+            <p>Much more might be added by comparing the contrary effects
+<pb n="11" facs="tcp:102360:13"/> to this Vertue, becauſe <hi>Contraria juxta ſe poſita magis eluceſcunt:</hi> but they are all checked by this rare Vertue Parſimony, the whol<g ref="char:EOLhyphen"/>ſome Preſervative againſt all In<g ref="char:EOLhyphen"/>ordination.</p>
+            <p>Another, and that an eſpeciall means to preſerve your Eſtate is your choice of a wife, when as Maturity of years and your own affections ſhall encline you there<g ref="char:EOLhyphen"/>unto: which alſo by your care will adde unto you both an Increment of Eſtate, &amp; Strength &amp; Alliance of friends. It is the weightieſt a<g ref="char:EOLhyphen"/>ction you can perform in all your life, and it is reſembled to Warr, in which it is ſayd, you cannot erre twice. <hi>Non eſt in bello bis peccandum.</hi> If love be your incen<g ref="char:EOLhyphen"/>tive, let Diſcretion de your di<g ref="char:EOLhyphen"/>rective. Take your worthy Mo<g ref="char:EOLhyphen"/>ther by the hand with you; She
+<pb n="12" facs="tcp:102360:14"/> looketh upon you with a double aſpect, as entruſted by your late Father, and by her own Goodneſs, and indulgence toward you, ex<g ref="char:EOLhyphen"/>acting by the Lawes of God and Nature duty and obedience from you. To whoſe advice, if you joyn your Prayers to the Allmighty, you ſhall then know that a good wife is a Portion from the Lord.</p>
+            <p>Love is a fire which requireth fuell, and therefore I truſt you will take care by your Marriage to advance and augment your eſtate, that thereby your affectio<g ref="char:EOLhyphen"/>nate Mother may be enabled to make proviſion for your Brothers, to undergo thoſe progreſſions into which they have made ſo happy and Vertuous a Commencement.</p>
+            <p>And this is alſo another pre<g ref="char:EOLhyphen"/>ſervation of your Eſtate, and
+<pb n="13" facs="tcp:102360:14"/> ſecurity, if your ſelf ſhould faile, theſe like two Arches will pre<g ref="char:EOLhyphen"/>ſerve the ſame. Theſe are noble Emiſſaries, which are ſent abroad to afford you honour and repu<g ref="char:EOLhyphen"/>tation at home. If any ſad adven<g ref="char:EOLhyphen"/>ture happen to them, your Houſe muſt be an <hi>Aſylum</hi> or Sanctua<g ref="char:EOLhyphen"/>ry unto them. You are three in number:
+<q>Numero Deus impare gaudet.</q>
+            </p>
+            <p>And as <hi>Solomon</hi> ſaith, <hi>The triple twiſted cord is not eaſily broken.</hi>
+            </p>
+            <q>Nemo laeditur niſi a ſcipſo.</q>
+            <p>There be many ways &amp; middeſſes by which Families have decayed, and many ſeeming wiſe men have overthrown their own eſtates. Such are they that graſp more than they can hold. Mortgage not your own land upon a certain ti<g ref="char:EOLhyphen"/>tle, for other land of whoſe title you cannot be ſo well aſſured.
+<pb n="14" facs="tcp:102360:15"/> Such as theſe Syracides well no<g ref="char:EOLhyphen"/>teth: <hi>He that buyeth land with o<g ref="char:EOLhyphen"/>ther mens mony, is like one that buyeth a heap of ſtones to bury him<g ref="char:EOLhyphen"/>ſelf.</hi> It is not the number of acres will give you content, when you are beſieged and oppreſſed with debts and neceſſities. <hi>Melior eſt pauper</hi> (ſaith <hi>Solomon) ſibi ſuffi<g ref="char:EOLhyphen"/>ciens, quàm qui multa poſſidet, &amp; tamen egenus.</hi>
+            </p>
+            <p>Such as theſe are Gameſters alſo, who out of a covetous de<g ref="char:EOLhyphen"/>ſire and overweening to gain, ſomtimes make a Patrimony, but a Chriſtmas-Caſt. Others have more ſport for their Money, who adventure bag after bag, and ne<g ref="char:EOLhyphen"/>ver leave off till all be loſt. This hath accelerated the ruine of ma<g ref="char:EOLhyphen"/>ny noble Families.</p>
+            <p>I am not ſo ſupercilious to con<g ref="char:EOLhyphen"/>ceive, but that it may be a firting
+<pb n="15" facs="tcp:102360:15"/> 
+               <hi>decorum,</hi> for you to play, when by noble company you are invi<g ref="char:EOLhyphen"/>ted thereunto: nay, not to play is a defect: but then not to adventure more than you can well ſpare, and for which the loſſe will not diſ<g ref="char:EOLhyphen"/>content you. And in this your diſport, you are to have ſome re<g ref="char:EOLhyphen"/>ſpect unto time, and not to make that to be your vocation which is onely intended for your recreati<g ref="char:EOLhyphen"/>on. <hi>Ludendi modus eſt retinendus,</hi> ſaith <hi>Tully.</hi>
+            </p>
+            <p>And it will alſo become you to know the advantages of games; ſo ſhall you not altogether com<g ref="char:EOLhyphen"/>mit your money, which is ſo pre<g ref="char:EOLhyphen"/>cious, to the temerity of fortune: Mony is the hand to all actions, and it is alſo called <hi>alter ſanguis,</hi> and <hi>Regina pecunia, cui omnia obediunt.</hi>
+            </p>
+            <p>A conſequent of the two for<g ref="char:EOLhyphen"/>mer
+<pb n="16" facs="tcp:102360:16"/> is the taking up of mony up<g ref="char:EOLhyphen"/>on Intereſt: What though you ſee many of the Nobility and Gen<g ref="char:EOLhyphen"/>try involved and plunged there<g ref="char:EOLhyphen"/>in, <hi>Multitudo errrantium non parat errori patrocinium. Cato</hi> being demanded, <hi>Quid eſt foene<g ref="char:EOLhyphen"/>rare,</hi> made anſwer, <hi>Hominem jugulare.</hi> The Jews (well verſed in the trade ever ſince) were per<g ref="char:EOLhyphen"/>mitted to lend upon uſury, to thoſe Nations, whom God had commanded to be caſt out before them, thereby to ext<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rp them. It devoureth States and Kingdoms. The King of <hi>Spain,</hi> called the King of the golden purſe, upon whoſe Dominions the Sun never ſetteth; was not able to pay the Intereſt of mony, taken up from the Merchants of <hi>Genoa,</hi> for the ſupply of his Army in the Low-Countries.</p>
+            <pb n="17" facs="tcp:102360:16"/>
+            <p>A concomitant to this of Uſu<g ref="char:EOLhyphen"/>ry is Suretyſhip, which hath alſo undone many. Mony cannot be procured but upon high ſecurity; whereby you muſt make uſe of your friends, even of your beſt friends. If you ſuffer them to be ſued and impleaded, <hi>Actum eſt de Amicitia.</hi> But for the moſt part the borrowers of money (as at a mart) are engaged one for ano<g ref="char:EOLhyphen"/>ther, by a law of congruity. Thoſe that ſtand engaged for you; you muſt underwrite for them alſo: ſo that thereby your perſon and eſtate will not onely lie expoſed to your own engagements, which might be weighty enough to pull you down, but for other mens debts alſo. And then it will be too late for you to hearken unto <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> whoſe advice is: <hi>If thou be ſurety for thy Neighbour, and haſt
+<pb n="18" facs="tcp:102360:17"/> ſtricken hands with a ſtranger, give no ſleep to thine eyes, not ſlumber to thine eyelids. Deliver thy ſelf as a Doe from the hands of the hunter, and as a bird from the hand of the fouler.</hi> Your own en<g ref="char:EOLhyphen"/>gagements, with others alſo, by a figure of multiplication, may ſo redouble and treble upon you, that in a moment you may be ſwallowed up alive, and that Houſe wherein your Anceſtors have been glorious for bounty and hoſpitality, may become the Den of a mercileſſe Uſurer: Your enemies will laugh you to ſcorn, your friends paſſing by will la<g ref="char:EOLhyphen"/>ment and ſay, <hi>O domus antiqua, quàm diſpari dominaris domino!</hi> But to prevent theſe and other the like miſchiefs, you have a ſure way. Be you the fruitful ſervant of Almighty God, you ſhall take
+<pb n="19" facs="tcp:102360:17"/> deeper root: <hi>You ſhall be like a tree planted by the water ſide, which will bring forth fruit in due ſeaſon: your leaf alſo ſhall not wither, and whatſoever you do, it ſhall proſper.</hi>
+            </p>
+            <p>Thus much for the preſervati<g ref="char:EOLhyphen"/>on of your Honour and Eſtate, which deſcend upon you from your Anceſtors. You may take breath a little, and then proceed to the ſecond part of this Diſ<g ref="char:EOLhyphen"/>courſe, concerning your Compa<g ref="char:EOLhyphen"/>ny and Converſe.</p>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:102360:18"/>
+            <pb n="21" facs="tcp:102360:18"/>
+            <head>INSTRUCTIONS OR ADVICE TO HIS GRANDSON. The ſecond Part.</head>
+            <p>
+               <hi>HOmo eſt Animal ſociale:</hi> and he that is not ſocia<g ref="char:EOLhyphen"/>ble (ſaith <hi>Ariſtotle</hi>) is more than a man, or leſſe than a man, <hi>aut Deus aut
+<pb n="22" facs="tcp:102360:19"/> bellua,</hi> either a God which hath need of none, or a beaſt that will do good to none. And from this principle or inſtinct of nature (for men to live together) he deduceth Families, Villages, Cities and Commonwealths. But the beſt things have a mixture of ill, and a difficulty ariſeth, ſince <hi>Mundus in maligno poſitus,</hi> how ſhall we converſe and not participate with other mens ſins; touch pitch and not be defiled, or be like fiſhes of the Sea, bred up in ſalt waters, and alwaies ſweet.</p>
+            <p>
+               <hi>Pelagius</hi> affirmed that man onely ſinned by imitation: and certainly by ſeeing others ſin be<g ref="char:EOLhyphen"/>fore us, we inſenſible ſuck in the poyſon of Vice. This hath been the cauſe, that divers pious and devout men have diſſociated and retired themſelves into rocks,
+<pb n="23" facs="tcp:102360:19"/> caves and deſart places, thereby to avoid the contagion of Evil: ſuch as <hi>Iohn</hi> the <hi>Baptiſt,</hi> Father of the Eremites.</p>
+            <p>But man by his Fall being judg<g ref="char:EOLhyphen"/>ed to eat his bread <hi>Sudore vultus ſai,</hi> is neceſſitated to live and make choice of an active life, which conſiſteth in labour &amp; commerce, and thereby is engaged to the ſociety of others. And becauſe of temptations, it is good in the firſt place to avoid the converſe of all known wicked perſons, ſuch as <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Cheaters, Ruffians &amp; Debau<g ref="char:EOLhyphen"/>ched, <hi>who glory in their ſhame. A <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nis bona perdiſces</hi> (ſaith Seneca) <hi>quod ſi malis adhaeſeris, mentem <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uam habes proculdubio perdes.</hi> But becauſe the Aſſemblies of <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en (and thoſe alſo of the better <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ort, which is to be bewailed) <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o abound with ſuch, we are to
+<pb n="24" facs="tcp:102360:20"/> fortify our ſelves with the morall Vertues, and put on the Chriſtian Armour, that thereby (by Gods aſſiſtance) we may avoid the baits and engines wherewith they endeavour to enſnare us, as <hi>Solomon</hi> adviſeth us; <hi>Si alli<g ref="char:EOLhyphen"/>ciant te peccatores, ne acqui<g ref="char:EOLhyphen"/>eſcas eis,</hi> &amp;c. <hi>Seneca</hi> alſo gives us excellent direction: <hi>Cum tuis verſare, quite meliorem facturi ſunt: illos admitte, quos tu potes facere meliores.</hi> Good is diffuſive, and it is a happy Converſe, when we either profit others or our ſelves.</p>
+            <p>The firſt place in our Affecti<g ref="char:EOLhyphen"/>ons muſt be for our Friends. True friendſhip is (as <hi>Tully</hi> ſaith) <hi>inter bonos in bonis;</hi> All compacts with wicked men, or in wicked things, are <hi>male icta foedera.</hi> A Friend is tried in Adverſity: <hi>Si
+<pb n="25" facs="tcp:102360:20"/> poſſides amicum</hi> (ſaith <hi>Syracides) <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tentationibus poſside eum, &amp; <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> facile credas ei.</hi> A good cloſe, not to be too credulous, but to try before you truſt, true friends being very rare among ſo many Profeſſors of friendſhip.</p>
+            <q>Tuta frequenſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>, via eſt per amici fallere nomen.</q>
+            <p>The Italians have a proverb, <hi>God ſhield me from my friends, I will look to my Enemies my ſelf.</hi> It may be an advantage to have an Enemy: he will make you ſtand the ſurer upon your guard: you eye his motions and avenues: but a friend, which boſometh with you, who can prevent? He is like a ſubterraneous engine, which wil blow you up before you hear the report. And therefore <hi>Seneca</hi> well
+<pb n="26" facs="tcp:102360:21"/> adviſeth: <hi>Sic am a tanquam oſurus,</hi> &amp;c. Never love ſo much, but reſerve your ſelf, that if your friend ſhall become your enemy, he ſhall not have power to do you hurt: and yet withall, never hate ſo much, but leave an open gap or overture to let in love. Your hatred muſt be mortall, your love immortall. Love abi<g ref="char:EOLhyphen"/>deth for ever.</p>
+            <p>The next in order are your Neighbours, (a good Neighbour near, is better than a brother afar off:) with whom, in reſpect of nearneſſe, you are to con<g ref="char:EOLhyphen"/>verſe.</p>
+            <p>There are two Honorable Neighbours, that in effect encir<g ref="char:EOLhyphen"/>cle your Eſtate: 1 The Right Ho<g ref="char:EOLhyphen"/>norable Viſcount <hi>Tracy,</hi> w<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hath the preheminence of all the Families in theſe parts for Anti<g ref="char:EOLhyphen"/>quity.
+<pb n="27" facs="tcp:102360:21"/> Your Anceſtors have from them received much honour by divers Truſts and Services recom<g ref="char:EOLhyphen"/>mended and repoſed in them. Their lands at <hi>Alderton</hi> lye pro<g ref="char:EOLhyphen"/>miſcuouſly with yours, and many differences have ariſen between the reſpective Lords &amp; Tenants, which have been alwaies compo<g ref="char:EOLhyphen"/>ſed in an amicable way. Many graces and favours I have recei<g ref="char:EOLhyphen"/>ved in my Country; have pro<g ref="char:EOLhyphen"/>ceeded from this Honorable Lord, and his Son Sir <hi>Robert Tracy,</hi> the true Inheritor of his Honours &amp; Vertues. And though I might command you, yet had I rather intreat you to aſſiſt me to pay that deep debt of duty and ſervice which I ow to thoſe of that Honorable Family.</p>
+            <p>The other is the Lord <hi>Chan<g ref="char:EOLhyphen"/>dos;</hi> nay, the Lord <hi>Butlers</hi> long
+<pb n="28" facs="tcp:102360:22"/> before, as I am very well able to ſet forth. The Lord <hi>Edmund Chandos</hi> Knight of the Garter, in much infirmity of body did ad<g ref="char:EOLhyphen"/>venture towards <hi>Gloceſter</hi> to do Sr. <hi>Iohn Higford</hi> honour, when he was firſt High Sheriff, but falling more ſick in the Journey, returned to his <hi>Caſtle</hi> and died before the Aſſizes were ended. The Lord <hi>Giles Chandos</hi> employ<g ref="char:EOLhyphen"/>ed Sr. <hi>Iohn Higford</hi> in the Go<g ref="char:EOLhyphen"/>vernment of his Eſtate, and in the Lieutenancy of the County: &amp; for his good ſervice done there<g ref="char:EOLhyphen"/>in promoved him to the Queens Majeſtie (a great Houſewife of her Honour) who dignified him with the order of a Knight (in thoſe days communicable only to perſons of worth and quality) 14. <hi>Sept.</hi> 1591. At which time alſo her ſaid Majeſtie created Sr
+<pb n="29" facs="tcp:102360:22"/> 
+               <hi>Iohn Scudamore</hi> Knight, the goodlyeſt Parſonage then in the Court of <hi>England,</hi> and in high favour, her Majeſtie uſing many gracious ſpeches to them both. The Lord <hi>Grey Chandos,</hi> truely noble both in learning and Armes brought me firſt into the Com<g ref="char:EOLhyphen"/>miſſion of the Peace, and did me many Graces both in Court and Country. This noble Lord, with whom you are almoſt coetaneous, hath ſhewed many remarkable <hi>Indices</hi> of his Proweſs and Ho<g ref="char:EOLhyphen"/>nour.</p>
+            <q>
+               <l>Nec imbellem feroces</l>
+               <l>Progenerant Aquilae columbam.</l>
+            </q>
+            <p>Follow the train of your An<g ref="char:EOLhyphen"/>ceſtors, and ſo grow up in his fa<g ref="char:EOLhyphen"/>vour.</p>
+            <q>
+               <pb n="30" facs="tcp:102360:23"/>Principibus placuiſſe viris haud ultima laus eſt.</q>
+            <p>You have alſo many other wor<g ref="char:EOLhyphen"/>thy Gentlemen your Neighbours, and ſome of your Alliance too, from whom your Anceſtors have received many high favours. Your Anceſtors knew no other way to continue their good Affections, but Affability, Sweet<g ref="char:EOLhyphen"/>neſs, and mutuall Offices of love. Moroſity and ſtrangeneſs will looſe your friends, and benefit you nothing at all.</p>
+            <q>Deſcendendo aſcendes.</q>
+            <p>The next Companions in order are your ſervants and Domeſt<g ref="char:EOLhyphen"/>icks, but theſe are ill companions, leſt they prove inſolent. It is
+<pb n="31" facs="tcp:102360:23"/> written of Nero, the worſt of Princes, <hi>Non habuiſſe ingenium ſupra ſervos;</hi> when the great affaires of State were in debate in the Senat houſe, he was conver<g ref="char:EOLhyphen"/>ſant with his Favourite <hi>Tigillinus</hi> and the reſt of his ſervants. And this hath alſo been a diſparage<g ref="char:EOLhyphen"/>ment to many worthy Gentle<g ref="char:EOLhyphen"/>men, who affecting to be the beſt of their company, have negclected the converſe of their ſuperiors, many times to their great diſad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>That you may be the better obeyed by your ſervants, you muſt carefully govern your ſelf, that by your own example you may the better govern them. <hi>Longum eſt iter per praecepta; breve &amp; efficax per exempla.</hi>
+            </p>
+            <p>In the choice of your ſervants, you muſt take care, that they
+<pb n="32" facs="tcp:102360:24"/> be <hi>negotiis pares,</hi> and then enjoyn them buſineſs enough, and exact accounts from them, leſt by re<g ref="char:EOLhyphen"/>miſſneſs they grow idle and un<g ref="char:EOLhyphen"/>ſerviceable. Pay them their due Salaries: ſo will they be the more tyed and aſſured to you: <hi>Non manebit apud te opus mercenarti uſque mane.</hi> Your Commands muſt be lawfull, pious, and reli<g ref="char:EOLhyphen"/>gious, <hi>tantum in Domino:</hi> re<g ref="char:EOLhyphen"/>membring, that as they are your Servants, ſo they are Gods Free<g ref="char:EOLhyphen"/>men. Holy David will direct you in the choice of them: <hi>He that leadeth a Godly life, he ſhall be my ſervant.</hi> Faithfull Abraham will inform you how to govern them: I know, ſaith God, <hi>that Abraham will Command his Houſhold, that they keep the way of the Lord to do righteousneſs and judgment.</hi> Abra<g ref="char:EOLhyphen"/>ham had a good ſervant whom
+<pb n="33" facs="tcp:102360:24"/> he employed in the negotiation of his ſons marriage: if you finde ſuch a ſervant, let your ſoul love him, and defraud him not of li<g ref="char:EOLhyphen"/>berty, neither leave him a poor man.</p>
+            <p>The next Companions will be your Tenants, who are your Neighbours, and will have re<g ref="char:EOLhyphen"/>courſe unto you, in reſpect of their Eſtates which they hold of you. Tillage is the preſervation of a Commonwealth in providing bread, which is called the Staff of man, whereupon he leaneth: which Staff, if it fail, Man falleth to the ground. <hi>Terra dicitur a terendo:</hi> and in a Fine Tillage-land is firſt ſet down, becauſe it is worthyer than any other land. For, as <hi>Cicero</hi> ſaith, <hi>Omnium re<g ref="char:EOLhyphen"/>rum ex quibus aliquid exprmiitur, nihil eſt Agricultura melius, nihil
+<pb n="34" facs="tcp:102360:25"/> uberius, nihil dulcius, nihil homine libero dignius.</hi> By this Kings have their Subſidies, and the Bodies of men for ſupply of their Armies, (for, as <hi>Tacitus</hi> ſaith, <hi>Ex agro ſupplendum robur exercitus</hi>) and Incumbents alſo recieve their full Tithes. Theſe Men live innocent lives without deceit: they onely rely upon God, who giveth the former and the later rain. To in<g ref="char:EOLhyphen"/>cloſe, or not to ſuffer them to renue their Eſtates, whereby deſolation ſhall enſue, draweth on a woe.</p>
+            <p>They hold of you by <hi>Fealty,</hi> that is, Fidelity, to be faithfull unto you for the Lands they hold. you muſt in Relation give them protection, whereby they may follow their exceſſive labours.</p>
+            <q>Finiunt, reaprant<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> labores.</q>
+            <p>Your Anceſtors have been mo<g ref="char:EOLhyphen"/>derate
+<pb n="35" facs="tcp:102360:25"/> in their Fines, and I truſt God will bleſs you the better for it. Let theſe men of bread enjoy and eat the bread which they dearly labour for and earn: <hi>Panis pauperum, vita pauperum: qui defrandat eos, vir ſanguinis.</hi>
+            </p>
+            <p>To your Tenements and Ma<g ref="char:EOLhyphen"/>nour you have an Advouſion that is Appendant. An Advouſion, in the eye and conſtruction of the law, is no more but a Pleaſure for a Friend, a good friend indeed which may lead you to God. <hi>Omnia cum amico delibera, ſed de ipſo prius,</hi>
+            </p>
+            <p>Cardinal <hi>Ximenes</hi> Archbiſhop of <hi>Sevilla</hi> in <hi>Spain</hi> would never conferr any Benefice to any per<g ref="char:EOLhyphen"/>ſon who made ſuit for the ſame. K. <hi>Henry</hi> 7. one of the Sages of the Kings of <hi>England</hi> did never promote any one to any Office
+<pb n="36" facs="tcp:102360:26"/> or dignity upon the motion of another. Give your Benefice your ſelf, ſo ſhall you have the thanks: Give it with Iudgment, not with partial affection, St. <hi>Paul</hi> will di<g ref="char:EOLhyphen"/>rect you how to chooſe: <hi>Irrepre<g ref="char:EOLhyphen"/>henſibilem, ornatum, prudentem, pudicum, hoſpitalem, doctorem; non violentum, non percuſſorem, non cupidum; ſed modeſtum, non neophytum, ne in ſuperbiam elatus in judicium incidat diaboli.</hi> Againſt this yong man I ſhould except a little. Young men are Aguiſh, their pots are boiling, and they have many Meanders. The Cardinals in their conclave would once adventure (&amp; that but once) to make a young Pope, which was <hi>Leo</hi> the 10. of the Houſe of <hi>Me<g ref="char:EOLhyphen"/>dices:</hi> but ſee what followed: This yong Pope by promiſcuous grant<g ref="char:EOLhyphen"/>ing and ſelling of Pardons and In<g ref="char:EOLhyphen"/>dulgences
+<pb n="37" facs="tcp:102360:26"/> to the German Nation, gave occaſion to <hi>Luther</hi> to write againſt him what a defection hath ſince enſued from that See? The Cardinals ſince grown more wary in their choice, do except againſt any one (though otherwiſe well parted for ſo high a function) unleſs he be alſo old enough to be Pope.</p>
+            <p>
+               <hi>Coram cano capite conſurge,</hi> (ſaith <hi>Syracides.</hi>) The Elder man fixeth a deeper impreſſion in the hearts of his Auditors, and the gray hairs exact a better attention, as it is lively expreſſed by <hi>Vir<g ref="char:EOLhyphen"/>gil.</hi>
+            </p>
+            <q>
+               <l>Tum pietate gravem, &amp; meritis ſi forte virum quem</l>
+               <l>Conſpexere, ſilent, arrectiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> auribus aſtant:</l>
+               <l>Ille regit dictis animos, &amp; pecto<g ref="char:EOLhyphen"/>ra mulcet.</l>
+            </q>
+            <pb n="38" facs="tcp:102360:27"/>
+            <p>The elder man alſo, if he be froward, is of leſs continuance.</p>
+            <p>
+               <hi>Non datur beneficium niſi propter officium,</hi> ſaith the Law. If you have provided him of the temporal part, he muſt afford you the ſpi<g ref="char:EOLhyphen"/>ritual. Amongſt other his quali<g ref="char:EOLhyphen"/>fications, peaceable muſt be one; in reſpect of the Intereſt he ſhall have in yours and your Tenants Eſtates. When you make a feaſt, though furniſhed with variety of delicacies, your feaſt will be much impaired, if you have no ſalt. This is your Salt.</p>
+            <p>It will be an eſpecial act of Piety in you to ſettle a godly preaching Miniſter to officiate at <hi>Dixton;</hi> It will be a ſingular com<g ref="char:EOLhyphen"/>fort to you and your Family, to be informed in your duty to God by the example of his life and by his doctrine. It is ſaid, <hi>Facundus
+<pb n="39" facs="tcp:102360:27"/> comes in via eſt pro vehiculo:</hi> cer<g ref="char:EOLhyphen"/>tainly, in this your journey <hi>ad pa<g ref="char:EOLhyphen"/>tri am,</hi> which is Heaven (for we are all but pilgrimes upon earth) ſuch a companion will be as a Chariot to bring you to Almighty God: and perhaps ſome of your Anceſtors have been leſs ſucceſs<g ref="char:EOLhyphen"/>full by the omiſſion thereof.</p>
+            <p>Now, being upon the Treaty of Sacred things, I ſhall recom<g ref="char:EOLhyphen"/>mend and tranſmit unto you the care of certain Lands piouſly bequeath'd by <hi>William Higford</hi> Eſq; to the uſe of the Church of <hi>Alderton</hi> by his Deed bearing date in <hi>October,</hi> the 28. <hi>Henry</hi> 8.</p>
+            <p>The Church doth pray in aid of <hi>Brachium ſaeculare</hi> to ſupport it, and the firſt Law in the Statutes of <hi>Magna Carta,</hi> whereunto the King at his Coronation is ſolemn<g ref="char:EOLhyphen"/>ly
+<pb n="40" facs="tcp:102360:28"/> ſworn, is, <hi>That the Church of</hi> England <hi>ſhall be free, and have all her Rights entire, and her liberties inviolate.</hi> You are and muſt be a <hi>Brachium ſeculare,</hi> and ſupport to thoſe Lands, which being ſeparated and ſet apart from profane uſes, muſt be now onely imployed according to the diſpoſition of the Donour <hi>per formam doni.</hi> To alien or divert the profits to any other uſe (which is often attempted by the Pariſhioners to ſave their own mony) or to indeavour to gain theſe Lands to your ſelf, is Sa<g ref="char:EOLhyphen"/>criledge, a crying ſin, greatly tending to the diſhonour of Al<g ref="char:EOLhyphen"/>mighty God, and which alſo may infect your other lands. There are many examples of ſuch who have broken the Truſts repoſed in them, but their Names do rot
+<pb n="41" facs="tcp:102360:28"/> upon the earth. <hi>Horrendum eſt incidere in manus Dei.</hi> You will find other pious Acts of your Anceſtors, which to their glory and honour you are to maintain, as you will expect to be honoured your ſelf.</p>
+            <p>You have alſo another Com<g ref="char:EOLhyphen"/>panion, which readeth to you. <hi>Generoſus Animus facilius du<g ref="char:EOLhyphen"/>citur quàm trahitur.</hi> You muſt hearken to him as ſubſtituted by your worthy Mother, unto whom God hath confirmed a power over you. The Heir (ſaith the Apoſtle) differeth in nothing from a Servant (in his Minority) but is under Tutors and Gover<g ref="char:EOLhyphen"/>nours. Diſobedience in this kind is deſtructive. <hi>Maledictio Ma<g ref="char:EOLhyphen"/>tris eradicat fundamenta.</hi> This your Overſeer is to give you your firſt liquor: and then you know.</p>
+            <q>
+               <pb n="52" facs="tcp:102360:29"/>
+               <l>Quo ſemel eſt imbuta recens ſer<g ref="char:EOLhyphen"/>vabit odorem</l>
+               <l>Teſta diu.</l>
+            </q>
+            <p>Sir <hi>John Higford,</hi> who was an eminent man in his Country, had for his Tutor the famous Biſhop <hi>Jewel;</hi> my Father Doctor <hi>Cole,</hi> an excellent Governour; My ſelf Doctor <hi>Sebaſtian Benefield,</hi> na<g ref="char:EOLhyphen"/>tive of Presbury, a very learned man: All three of <hi>Corpus Chriſti</hi> Coll. <hi>Oxon.</hi> And if we may tranſcend higher, <hi>Alexander</hi> who conquered the world, had for his Tutor <hi>Ariſtotle,</hi> who conque<g ref="char:EOLhyphen"/>red the Arts: <hi>Thomas Aquinas,</hi> the Champion of the Roman hoſt (of whom they boaſt, <hi>Tolle Tho<g ref="char:EOLhyphen"/>mam &amp; diſsipa Eccleſiam</hi>) had for his Tutor our Countryman and near Neighbour <hi>Alexander</hi>
+               <pb n="43" facs="tcp:102360:29"/> of <hi>Hales,</hi> ſurnamed <hi>Doctor irre<g ref="char:EOLhyphen"/>fragabilis: Charles</hi> the Great, Emperour of the Weſt, <hi>Alcuinus: Charles</hi> the fift, Pope <hi>Adrian:</hi> King <hi>James,</hi> a King of learning as well as of power, had for his Tutor the famous <hi>Buchanan.</hi> Theſe Princes and great Perſons obtained great renown by their Inſtitution from their Tutors.</p>
+            <p>The <hi>Ieſuits</hi> boaſt, that <hi>Impe<g ref="char:EOLhyphen"/>rium literaerum penès Ieſuitas:</hi> and they profit &amp; raiſe their Scholars moſt by the choiceſt Lecturers that may be gotten to read unto their youth (and ſo alſo do Both our Univerſities, both in private Colledges and publick ſchooles) after the lecture they meet toge<g ref="char:EOLhyphen"/>ther, hold diſputation, whet their wits by diſcourſe, and rivet what they have heard, adding thereunto writing the heads for the helps
+<pb n="44" facs="tcp:102360:30"/> of fallible memory: thus the work is done. <hi>Reading maketh an able man, Diſcourſe a ready man, and writing a perfect man.</hi>
+            </p>
+            <p>There are alſo other Compa<g ref="char:EOLhyphen"/>nions, and theſe are <hi>Books,</hi> held to be the beſt companions of all, becauſe they will not flatter: but in the choice of them you ought to be very curious. And therefore in the firſt place caſt away from you all wanton, leud and licenti<g ref="char:EOLhyphen"/>ous Pamplhets: and read good books, and thoſe in order and method. For as in your diet, health is preſerved by a few diſhes, and thoſe of good juice and nouriſhment: ſo in learning, a few Books well ſtudyed and digeſted will profit you more than a great number not will choſen. <hi>Lectio certa prodeſt:</hi> ſaith <hi>Seneca.</hi>
+            </p>
+            <p>The Right Honourable, the
+<pb n="45" facs="tcp:102360:30"/> Lord Viſcount <hi>Scudamore</hi> is beſt able to direct you (when you can have acceſs to his Lordſhip) he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a great lover of learning and very learned: and a moſt bountifull Mecaenas to all Schollars and men of parts.</p>
+            <p>The Book, wherein you are to be moſt converſant, is the Holy Scriptures. This muſt be your <hi>Vade mecum. Non recedat Volumen legis hujus ab ore tuo, ſed medita<g ref="char:EOLhyphen"/>beris in eo diebus &amp; noctibus.</hi> This word is a lantern unto your feet, and a light unto your paths. The Scripture is compared to a River, wherein a Lamb may wade, and an Elephant may ſwim: in ſome places eaſie, in ſome places hard to be underſtood. The eaſie muſt expound the harder: and where you doubt, you muſt follow the Adviſe of St. <hi>James Si quis in<g ref="char:EOLhyphen"/>diget
+<pb n="46" facs="tcp:102360:31"/> ſapientia, poſtulet a Deo:</hi> and alſo have recourſe to Gods learn<g ref="char:EOLhyphen"/>ed Miniſters and Embaſſadors, of whom it is ſaid, <hi>Vobis datum eſt nôſſe myſteria dôi,</hi> whereto the Prophet <hi>Malache</hi> agreeth: <hi>The Prieſts lips preſerve knowledge: ſeek the law at his Mouth.</hi> Thus doing, yo muſt acquieſce, and captivate your underſtanding <hi>to the obedience of Chriſt.</hi>
+            </p>
+            <p>The Pſalms of Holy <hi>David</hi> you are to read as they are ap<g ref="char:EOLhyphen"/>pointed for the Day, being a chioce part of the word of God, and the ejaculations of a perſon according to Gods heart.</p>
+            <p>Among other Books I would commend unto you eſpecially, in divinity, the learned <hi>Hookers,</hi> Eccleſiaſtical politie; in Hiſtory, the honour of our Nation Sr. <hi>Walter Raliegh</hi> &amp; <hi>Plutarchs Lives;</hi>
+               <pb n="47" facs="tcp:102360:31"/> for the knowledge of our own Country, Mr. <hi>Camdens Britannia,</hi> and my freind Sr. <hi>Richard Baker's</hi> Chronicle; for precepts of Mora<g ref="char:EOLhyphen"/>lity and vertuous Education, <hi>Xeno<g ref="char:EOLhyphen"/>phons Cyrus,</hi> and <hi>Tullies Offices,</hi> together with K. <hi>James Baſilicon Doron:</hi> and to refreſh your ſelf with poetical ſtories, you may take Sr. <hi>Philip Sydney</hi> in ſteed of all. When I was young, it was a defect for a Gentleman not to be verſed in Him.</p>
+            <p>
+               <hi>Alfred,</hi> one of the Saxon Kings during the Heptarchy, &amp; Founder of the Univerſity of <hi>Oxford,</hi> di<g ref="char:EOLhyphen"/>vided the 24. hours of the Day into 3. parts: whereof one third part he ſpent in the neceſſities of Nature, viz. eating, drinking, dreſſing, ſleeping <hi>&amp;c.</hi> another third part he imployed in hearing and compoſing matters of ſtate,
+<pb n="48" facs="tcp:102360:32"/> &amp; negotiations of his Kingdome: but the other third part he con<g ref="char:EOLhyphen"/>ſtantly devoted to Meditation and acquiſition of wiſedome. Kings and Princes have many and great difficulties, and Crownes have thornes: and ſo in like ſort all Maſters of Families and Trades, in their ſeveral myſteries and vocations, have a full imployment of their time: of whom it may be ſaid, as <hi>Seneca, Ipſa vita vitae apparatu conſumitur:</hi> But in you, who are freed frem all thoſe incumbrances, it were noble to vindicate from ſleep and ſports ſome Hours every day, and to diſpoſe them in the exerciſe of learning.</p>
+            <p>Of all profeſſions the Lawyer is moſt painfull: and it may well be ſo: Gold is an eſpecial Invite<g ref="char:EOLhyphen"/>ment to induſtry. I have known
+<pb n="49" facs="tcp:102360:32"/> divers Students of the Law, who have, without any failer, ſet a<g ref="char:EOLhyphen"/>part eight, nay ſome ten hours &amp; more every day in ſtudy of the Law: whereby they became great Gainers, and were advanced to the higheſt place of Iudicature.</p>
+            <p>
+               <hi>Titus</hi> the ſon of the Emperour <hi>Veſpaſian,</hi> called <hi>Deliciae Generis Humani</hi> (becauſe he was of ſo ſweet a diſpoſition, that it is ſaid, <hi>Neminem ab eo triſtem diſceſſiſse</hi>) this <hi>Titus</hi> kept a Diary of all his Actions, and when at night he had found upon examination, that he had acted nothing memorable, he would exclame, <hi>Amici diem perdidimus.</hi> This example I com<g ref="char:EOLhyphen"/>mend to you, Dear Coſin, and adde no more here, concerning your converſe either with Men or Books.</p>
+         </div>
+         <div n="3" type="part">
+            <pb facs="tcp:102360:33"/>
+            <pb n="51" facs="tcp:102360:33"/>
+            <head>INSTRUCTIONS OR ADVICE TO HIS GRANDSON. The third Part.</head>
+            <p>THE laſt part of our diſ<g ref="char:EOLhyphen"/>courſe will concern your Actions. <hi>Virtutis laus omnis in Actione conſiſtit.</hi> The World is a Stage, and every
+<pb n="52" facs="tcp:102360:34"/> one is to act his part before that great Spectator, God Almighty: which muſt make you carefull how you act under his all-ſeeing eye.</p>
+            <p>The higheſt acts you can per<g ref="char:EOLhyphen"/>form are the acts of Religion: whcich raiſeth up your mind from earth to Heaven. Your Religion muſt be accompanied with zeal, and your zeal tempered with diſ<g ref="char:EOLhyphen"/>cretion, that you may not be one of them whom the Apoſtle cen<g ref="char:EOLhyphen"/>ſureth: <hi>Habentes zelum, ſed non ſecundùm ſcientiam.</hi>
+            </p>
+            <p>In your Acceſs to Heaven you are to be led by two Virgins, prayer and preaching, by the one you talk with God, by the other God ſpeaketh unto you.</p>
+            <p>In your prayer, you are to be frequent and fervent. Holy <hi>David</hi> in the Evening, Morning and
+<pb n="53" facs="tcp:102360:34"/> Noon did pray unto the Lord, and that inſtantly, and the Lord heard his prayer. He did riſe alſo at midnight to give thanks unto the Lord. Our Saviour Chriſt <hi>pernoctabat in Oratione.</hi>
+            </p>
+            <p>As for preaching, when you enter into the houſe of God, be ready and attentive in hearing the word of God, and make it your own by meditation and practice. Thoſe beaſts onely were account<g ref="char:EOLhyphen"/>ed clean that ruminate and chew the cud.</p>
+            <p>It is practice, and the carefull obſervance of Gods Commande<g ref="char:EOLhyphen"/>ments, which brings the Reward, <hi>Hoc fac &amp; vives.</hi> This is it that doth moſt lively denominate a Chriſtian. You ſhall know him by his fruits.</p>
+            <p>For the better obſervance of Gods Law, you are to pray in
+<pb n="54" facs="tcp:102360:35"/> aide of Grace, as St. <hi>Auſtin</hi> adviſeth, <hi>Facere quod poſſumus, &amp; petere quod non poſſumus.</hi> When you fall, let your prayer be, <hi>Ne derelinquas me, Domine:</hi> Strive to raiſe your ſelf again by repentance, which is no more but <hi>peccata prae<g ref="char:EOLhyphen"/>terita plangere, &amp; plangenda iterum non committere,</hi> called by St. <hi>Ierom, Secunda poſt naufragium Tabula.</hi>
+            </p>
+            <p>The Theological Vertues which attend Religion are three, Faith, Hope, and Charity: with which you muſt joyn Humility. This is the <hi>baſis</hi> or foundation of all other vertues: the firſt ſtep of <hi>Iacobs</hi> ladder. He that humbleth himſelf ſhall be exalted.</p>
+            <p>But the Moral vertues are a more proper ſubject for Me, the firſt in order is <hi>Iuſtice.</hi>
+            </p>
+            <p>This is the bond of all Societies,
+<pb n="55" facs="tcp:102360:35"/> Families, Kingdomes and Com<g ref="char:EOLhyphen"/>monwealths. <hi>Juſtitiâ amotâ quid ſunt regna, niſi magna Latrocinia,</hi> Juſtice is, <hi>Suum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tribuere,</hi> to perform your word &amp; contracts, and thereby you will command other mens Eſtates as your own. And let this be a Rule unto you, <hi>Nullum utile quod non honeſtum;</hi> that which is unjuſtly extorted from others will never proſper:
+<q>De male quaeſitis non gaudet ter<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ius haeres.</q>
+            </p>
+            <p>Think not to be regiſtred a Saint in the Court of Heaven, un<g ref="char:EOLhyphen"/>leſs you make reſtitution <hi>(aut voto <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t facto)</hi> of that which you have wrongfully exacted upon earth. <hi>Non remittitur peccatum</hi> (ſay the Caſuiſts) <hi>niſi reſtituitur ablatum.</hi>
+            </p>
+            <p>But how will you be able to <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ender every one his own, unleſs
+<pb n="56" facs="tcp:102360:36"/> you have the knowledge of Lawes, which limit every one their own, eſpecially of the com<g ref="char:EOLhyphen"/>mon or Municipal Law of this Kingdome, under which you live, and by which you hold your Eſtate.</p>
+            <p>Yet ſome caution is to be had, that your knowledge of the Law provoke you not to commence ſuits, which are the country-mans warrs. It is the counſell of <hi>Moſes, Priuſquam expugnaveris aliquam civitatem, offeras ei pacem.</hi> Have no ſuits in Law, if you can avoid them, or if you may have peace without them. Uſe law as your laſt remedy. Suits in law will cauſe an extream diſtraction in your affairs, eſtate and mind. <hi>Sa<g ref="char:EOLhyphen"/>pientis eſt modico damno moleſti<g ref="char:EOLhyphen"/>am rei excluſiſſe.</hi> The Counſell of the Pſalmiſt is not onely, <hi>Seque<g ref="char:EOLhyphen"/>nore,</hi>
+               <pb n="57" facs="tcp:102360:36"/> but <hi>Sectare pacem:</hi> The frequentative notes, you muſt ſeek it often.</p>
+            <p>For the procuring and effecting of peace, it concerneth you in all your affairs to act nothing without the beſt and choiceſt Counſell may be had, that your contracts and ſettlements of your Eſtate be valid and perfect; and as much as in you lyeth, foreſee all incon<g ref="char:EOLhyphen"/>veniences which may happen; leave as little as you can to incer<g ref="char:EOLhyphen"/>tainty: Fraud is ſo inquiſitive and ſearching, that if you lay open the leaſt gap, Fraud will enter thereinto, &amp; will not only weaken and make void contracts and bargains, but even Laws alſo, never ſo judiciouſly debated and enacted.</p>
+            <p>There is an Adage among the Lawyers, <hi>Qui habet terras habet
+<pb n="58" facs="tcp:102360:37"/> guerras,</hi> It is incident unto land to have ſuits; and the greater your Eſtate, the more ſuits; but if any ſuch be, you muſt therein be vigilant and induſtrious to apprehend opportunities, nothing is gained by ſleeping, ſaith the common Law. <hi>Vigilantibus &amp; non dormientibus jura ſubveni<g ref="char:EOLhyphen"/>ent.</hi>
+            </p>
+            <p>I am not of the opinion of ſome of our Nobility and Gentry, who, when their ſons leave the Univerſities, omit the Innes of Court, and ſend them beyond the Seas. Travail is a neceſſary Accompliſhment of a Gentleman, and an eſpecial part of his Educa<g ref="char:EOLhyphen"/>tion: but what is it to be conver<g ref="char:EOLhyphen"/>ſant abroad, and a ſtranger at home? Theſe Innes of Court are vertuous and fruitfull ſeminaries for the breeding of youth, where
+<pb n="59" facs="tcp:102360:37"/> they ſtudy the known Lawes of the Land and other noble exer<g ref="char:EOLhyphen"/>ciſes.</p>
+            <p>Another part of Iuſtice is the well diſpoſing of your own, and this vertue is called Liberality, you are to ſcatter your Almes as ſeed upon the earth, to gain thereby a plentifull Harveſt. You ſhall have the prayers of many imploring God for you: and if the curſe of the poor ſhall aſcend to his Maker, ſhall not his prayers conduce to your good. We are but diſpenſators of Gods bleſ<g ref="char:EOLhyphen"/>ſings, and the poor muſt have a part. This is the moſt gainfull Commerce of all other. <hi>Da tem<g ref="char:EOLhyphen"/>poraria, ut conſequaris aeterna. Melius pecunia ſervatur, quae in manu pauperis collocatur.</hi>
+            </p>
+            <q>Quas dederis ſolus ſamper habebis opes.</q>
+            <pb n="60" facs="tcp:102360:38"/>
+            <p>The next in order is <hi>Prudence, Prudentia non eſt tantum virtus, ſed auriga virtutum.</hi> This vertue is the directreſs of all other ver<g ref="char:EOLhyphen"/>tues, ſits at the helm to guide the ſhip, holdeth the judgment-ſeat, diſtinguiſheth <hi>bonum à malo, ve<g ref="char:EOLhyphen"/>rum à falſo.</hi>
+            </p>
+            <p>A wiſe mans eyes, ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> are alwayes in his head: and if his own eyes are deficient he will uſe the eyes of others: <hi>Plus vident oculi quàm oculus.</hi>
+            </p>
+            <p>From hence ariſeth the neceſ<g ref="char:EOLhyphen"/>ſity of Counſell: for in counſell is health: <hi>Sine conſilio facias nihil, &amp; non poenitebis,</hi> ſaith <hi>Syracides.</hi> It is ſaid of God himſelf, who is infinite in knowledge, that he acteth all things according to the counſell of his will. Whence we may learn to do nothing raſhly or by praecipitation: <hi>Deliberandum
+<pb n="61" facs="tcp:102360:38"/> eſt diu quod ſtatuendum eſt ſe<g ref="char:EOLhyphen"/>mel.</hi>
+            </p>
+            <p>A Counſellers part is, not onely to give counſell, but to keep counſell, to be ſecret and reſerved. To keep your friends ſecrets, is Religion: to keep your own, is ſafety. For ſo ſhall you not be prevented in your deſignes, which will be ſooner effected by a pru<g ref="char:EOLhyphen"/>dent diſguiſing of your purpoſes, like the Watermen, who in row<g ref="char:EOLhyphen"/>ing turn their backs to the land<g ref="char:EOLhyphen"/>ing place.</p>
+            <p>Depend not upon humane wiſedome and policie, but depend on God: chooſe the fitteſt means to your juſt ends, and leave the ſucceſs to him.</p>
+            <p>After followeth <hi>Fortitude,</hi> what can be more expected: Prudence to direct what to do, &amp; Fortitude or courage to dare to do. But
+<pb n="62" facs="tcp:102360:39"/> this vertue is beſt obſerved in our ſelves. Man hath for his object <hi>bonum ſenſibile, &amp; bonum ſuperna<g ref="char:EOLhyphen"/>turale:</hi> the one draweth him up<g ref="char:EOLhyphen"/>ward, the other downward. And hence ariſeth the conflict which is in Man, himſelf againſt himſelf. Whereupon it was the dayly prayer of St. <hi>Auſtin, Domine, ſalve me à me.</hi> To triumph in the con<g ref="char:EOLhyphen"/>queſt of your ſelf, and to ſubjugate your affections and appetite to the Government of Reaſon, is more than to conquer the World: which ſome men have effected, and yet could never conquer themſelves,
+<q>
+                  <l>Fortior eſt qui ſe quàm qui for<g ref="char:EOLhyphen"/>tiſſima vincit.</l>
+                  <l>Moenia.</l>
+               </q>
+            </p>
+            <p>And here great care is to be had to withſtand the blandiſhments of
+<pb n="63" facs="tcp:102360:39"/> Proſperity, by which more incon<g ref="char:EOLhyphen"/>ſiderately fall, than by the blaſts and ſtormes of Adverſity. <hi>Magnae virtutis eſt cum faelicitate luctari: magnae faelicitatis à faelicitate non vinci.</hi> The Traveller put off his Claok in the ſun-ſhine, which he held faſt during the rain &amp; ſtorm.</p>
+            <p>Another effect of Fortitude is to exclude all fear:
+<q>Degeneres animos timor arguit.</q>
+            </p>
+            <p>Fear is defined by <hi>Solomon</hi> to be the betraying of the ſuccours, which Reaſon offers. Baſe cowar<g ref="char:EOLhyphen"/>diſe, which ſuggeſts panick fears, maketh ſhadows ſubſtances, mole<g ref="char:EOLhyphen"/>hils to ſeem mountains. <hi>Pavor omnem ſapientiam ex animo expe<g ref="char:EOLhyphen"/>ctorat.</hi> And therefore in difficile &amp; dangerous actions, it concerneth you to make a collection of your ſelf, for <hi>re cognita ceſſat timor,</hi>
+               <pb n="64" facs="tcp:102360:40"/> the Iuſtice of your cauſe and the clearneſs of your conſcience will make you as bold as a Lyon, and the uglineſs of Death will not affright you.</p>
+            <p>Another part of Fortitude is Patience, by many of our Gal<g ref="char:EOLhyphen"/>lants called <hi>virtus aſinina,</hi> but in truth it is <hi>virtus heroica:</hi> the moſt Heroical of all the reſt, and which giveth you aſſurance of Victory: <hi>Vincit qui patitur,</hi> The patient man, like the skilfull Seaman, when the Winds are contrary, tacketh about, and ſo arriveth at the Port deſired.</p>
+            <p>I will preſent you with one in<g ref="char:EOLhyphen"/>ſtance for many. The Lord <hi>Paw<g ref="char:EOLhyphen"/>lett,</hi> the firſt Lord Marqueſs of <hi>Wincheſter,</hi> ſo created by <hi>Edward</hi> the ſixt, continued a privy Coun<g ref="char:EOLhyphen"/>ſeller, and in eſpecial favour, to four Princes, <hi>Henry</hi> 8. <hi>Edward</hi> 6.
+<pb n="65" facs="tcp:102360:40"/> Q. <hi>Mary,</hi> and was Lord Treaſurer of <hi>England</hi> unto Q. <hi>Elizabeth,</hi> and being demanded how he could continue in prime favour with four Princes ſo differing in Diſpoſition, Religion, Age, and Sex, made anſwer: <hi>Patiendo, tacendo, blandiloquendo, injurias non ulciſcendo.</hi> Agreeable where<g ref="char:EOLhyphen"/>unto was another ſaying of the ſame Marqueſs: <hi>Ortus ſum ex ſalice, non ex quercu.</hi> But <hi>Virgil</hi> the Poet ſhall conclude for all.</p>
+            <q>Superanda omnis fortuna ferendo eſt.</q>
+            <p>The laſt, but not the leaſt, is the moſt rare and excellent Ver<g ref="char:EOLhyphen"/>tue <hi>Temperance. Epictetus</hi> taught this vertue in two words: <hi>Suſtine &amp; Abſtine Ariſtotle</hi> defineth it: <hi>Virtus cohibens appetitum in jis
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="64" facs="tcp:102360:41"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="65" facs="tcp:102360:41"/>
+                  <pb n="66" facs="tcp:102360:42"/> quae turpiter appetuntur.</hi> But St. <hi>Gregory</hi> goes farther: <hi>Qui non temperat à licitis, incidet in illici<g ref="char:EOLhyphen"/>ta.</hi> It is not enough to abſtain from things forbidden and un<g ref="char:EOLhyphen"/>lawfull, but even from the im<g ref="char:EOLhyphen"/>moderate uſe of lawfull things alſo.</p>
+            <p>This is the ſweet vertue, nay the Lady and Miſtris of all the reſt. This muſt be your conſort both at Bed and at Board. At Bed to preſerve your Chaſtity: at Board to preſerve your Health. Chaſtity is a great gift of God: the chaſt ſhall follow the Lamb: They lead an Angelical life here, <hi>in carne, ſine carne.</hi> Health is the greateſt Worldly bleſſing. As it is an Axiom in Philoſophy, <hi>Ani<g ref="char:EOLhyphen"/>ma ſequitur temperaturam cor<g ref="char:EOLhyphen"/>poris:</hi> ſo certainly the diſtempers of the body do dogg and diſturb
+<pb n="67" facs="tcp:102360:42"/> the faculties of the mind.</p>
+            <p>This vertue will preſerve you from the loathſome ſin of Drunk<g ref="char:EOLhyphen"/>enneſs: which if it once get poſſeſſion of you, will encreaſe with your age &amp; gather ſtrength. Other vices may have ſome Ge<g ref="char:EOLhyphen"/>neroſity in them, this ſavoureth too much of the Pigg. It exclu<g ref="char:EOLhyphen"/>deth a man from the Kingdom of God: it depriveth him of his rea<g ref="char:EOLhyphen"/>ſon: it expoſeth him to contempt and ſcorne: it bringeth many other ſad conſequences and diſa<g ref="char:EOLhyphen"/>ſters.</p>
+            <p>I know there is ſometimes a joviality amongſt men upon proſ<g ref="char:EOLhyphen"/>perous events, whereby you may be drawn perhaps to exceed by Perſons of Honour. But be ſure, if you drink <hi>ad hilaritatem,</hi> drink not <hi>ad ebrietatem.</hi> Make not your ſelf a Bruers Horſe to carry
+<pb n="68" facs="tcp:102360:43"/> Drink. Pretend other buſineſs and fair excuſes to come off. Wine and ſtrong drink is a trai<g ref="char:EOLhyphen"/>tor. The Wine ſparkleth in the Cup, it runneth ſweetly down the throat, but it biteth like a Serpent, and the end is bitterneſs, as the wiſeſt man hath obſerved.</p>
+            <p>I preſume I might have for<g ref="char:EOLhyphen"/>borne this to you, but becauſe it is <hi>morbus patrius,</hi> ſo catching and infectious, I have taken leave to deliver mine opinion there<g ref="char:EOLhyphen"/>of.</p>
+            <p>There is another ſort of Tem<g ref="char:EOLhyphen"/>perance, to reſtrain Anger. It will be good for you to reſiſt the be<g ref="char:EOLhyphen"/>ginnings of Anger, and to kill this raging ſerpent in the egge. <hi>Auguſtus Caeſar,</hi> before he would do any thing in his Anger, would ſay over the Greek Alphabet: but let your direction be, when
+<pb n="69" facs="tcp:102360:43"/> your Anger ariſeth, to ſay over the Lords Prayer, twice or thrice, the oftener the better: and re<g ref="char:EOLhyphen"/>member what <hi>Solomon</hi> ſaith: It is the diſcretion of a man to defer his anger, and his glory to paſs by offenſes.</p>
+            <p>From theſe Cardinall Virtues I ſhall now proceed to ſome good Additions, and comely Orna<g ref="char:EOLhyphen"/>ments of a Gentleman.</p>
+            <p>And the firſt that I ſhall pro<g ref="char:EOLhyphen"/>poſe unto you is the noble exerciſe of <hi>Riding the great Horſe.</hi> A knight on Horſeback is one of the goodlyeſt ſights in the World. Methinkes I ſee Sr. <hi>James Scuda<g ref="char:EOLhyphen"/>more,</hi> your thrice noble Grand<g ref="char:EOLhyphen"/>father, a brave Man of Armes both at Tilt and Barriers, after the voyage of <hi>Cales</hi> and the <hi>Cana<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> Ilands (wherein he performed very remarkable and ſignal ſer<g ref="char:EOLhyphen"/>vice,
+<pb n="70" facs="tcp:102360:44"/> under the Conduct of the Earl of <hi>Eſſex</hi>) enter the Tiltyard in a handſome equipage, all in compleate Armor, embeliſhed with Plumes, his Beaver cloſe, mounted upon a very high boun<g ref="char:EOLhyphen"/>ding horſe (I have ſeen the ſhooes of his horſe gliſter above the heads of all the people) and when he came to the encounter or ſhock, brake as many Spears as the moſt, her Majeſty Q <hi>Elizabeth,</hi> with a Train of Ladies, like the Starrs in the Firmament, and the whole Court looking upon him with a very gratious aſpect. And when he came to reſide with Sr. <hi>John Scudamore,</hi> his Father (Two braver Gentlemen ſhall I never ſee together at one time, ſuch a Father, ſuch a Son) Himſelf and other brave Cavalliers, and ſome of their Menials and of his ſuit,
+<pb n="71" facs="tcp:102360:44"/> to manage every morning Six or more brave well-ridden Horſes, every Horſe brought forth by his Groom in ſuch decency, order and honour, that <hi>Holme-Lacy,</hi> at that time, ſeemed not onely an Academy, but even the very Court of a Prince.</p>
+            <p>Sir, you may not boaſt your ſelf to deſcend from ſuch Aun<g ref="char:EOLhyphen"/>ceſtors, unleſs alſo you have an earneſt emulation to ſucceed them in their virtues.</p>
+            <p>The next is the moſt noble <hi>Art</hi> of <hi>Defence.</hi> You may note it is not called the Art of <hi>Offence:</hi> to offend and to do wrong, is inhu<g ref="char:EOLhyphen"/>mane and barbarous. <hi>Nihil into<g ref="char:EOLhyphen"/>lerabilius</hi> (ſaith Tully) <hi>in benè morata republica, quàm aliquid fie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i per vim.</hi>
+            </p>
+            <p>If you wrong your Superiour, then you know that will be <hi>impar
+<pb n="72" facs="tcp:102360:45"/> congreſſus:</hi> upon the ſhock the Iron pot will quickly break in peices the ſides of the earthen pot. And if you wrong your Inferiour, then ſhall you deſcend, and make him equal with your ſelf; and if you be vanquiſhed, it will tend the more to your d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhonour. But above all things you are to avoid duelling. To be engaged in a Duell, is to be accurſed from your Mothers Womb. Two great ex<g ref="char:EOLhyphen"/>tremities, to kill or to be killed. By the one you will be no other, than <hi>Cain</hi> after the killing of his Brother <hi>Abel,</hi> a runnagate upon the face of the earth, with the horrour of conſcience, whoſe worm dyeth not; and by the other you dy out of Charity, in the disfavour of Almighty God, a moſt fearfull condition.</p>
+            <p>To prevent and avoid Quarels,
+<pb n="73" facs="tcp:102360:45"/> wiſe men have obſerved 4. things Firſt <hi>hold no Arguments vehement<g ref="char:EOLhyphen"/>ly.</hi> Every man loveth the child of his own brain, as well as the child of his body, and few men will yield. Reaſon with your Antago<g ref="char:EOLhyphen"/>niſt ſoberly, repeat his Argument, in ſome meaſure ſeem to approve it, though never ſo abſurd, crave his pardon that you diſſent from him, and then preſs your Reaſons fairly and perſpicuouſly: you are not bound to make another man of your opinion: if you cannot gain him, fall off.</p>
+            <p>Secondly, <hi>Make no Compariſons.</hi> Compariſons are odious, ſaith our Proverb. For either you will over-praiſe, which will be a fault in you: a noble Gentleman, a brave Gentleman, an honeſt Gentleman, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s praiſe ſufficient: or elſe you will detract, and that will offend alſo.</p>
+            <pb n="74" facs="tcp:102360:46"/>
+            <p>Thirdly, <hi>Lay no wagers.</hi> This hath been an occaſion of many Quarrels kindled by Avarice.</p>
+            <p>Laſtly, <hi>Avoid all ſcurrility:</hi> rubb no old ſores, and loſe not your friend for your Jeſt. <hi>Facetiae</hi> (ſaith <hi>Tacitus) quae nimium de vero traxerint, acrem ſui memo<g ref="char:EOLhyphen"/>riam relinquent.</hi>
+            </p>
+            <p>But to defend your ſelf in a juſt cauſe, that is agreeable to the Lawes of God, nature, and man: and to do it with judgment and reſolution will marvellouſly tend to your honour and ſafety,</p>
+            <p>The uſe of Arms doth much dif<g ref="char:EOLhyphen"/>fer in theſe times I hear now the ſingle Rapier is altogether in uſe: when I was young, the Rapier and Dagger. And I cannot un<g ref="char:EOLhyphen"/>derſtand, ſeeing God hath given a man two Hands, why he ſhould not uſe them both for his defence.</p>
+            <pb n="75" facs="tcp:102360:46"/>
+            <p>The braveſt Gentlemen of Armes, which I have ſeen, were Sr. <hi>Charles Candiſh,</hi> and the now Marqueſs of <hi>New-Caſtle,</hi> his ſon, Sr. <hi>Kenelm Digby,</hi> and Sr. <hi>Lewis Dives;</hi> whom I have ſeen compoſe their whole bodies in ſuch a poſture, that they ſeemed to be a Fort impregnable. They were the Scholars of <hi>Iohn de Nar<g ref="char:EOLhyphen"/>des</hi> of <hi>Sevilla</hi> in <hi>Spain,</hi> who with the Dagger alone would encoun<g ref="char:EOLhyphen"/>ter the ſingle Rapier and worſt him. This exerciſe is moſt ne<g ref="char:EOLhyphen"/>ceſſary for you, and alſo excellent for your Health.</p>
+            <p>And from this Principle or Ground of Nature, to defend your ſelf, appeareth the lawfull<g ref="char:EOLhyphen"/>neſs of <hi>Warr,</hi> when as the Ho<g ref="char:EOLhyphen"/>nour, Religion and ſafety of a Commonwealth is concerned therein. <hi>Juſtum eſt bellum, quod
+<pb n="76" facs="tcp:102360:47"/> idem eſt neceſſarium: &amp; pia arma, ubi nulla niſi in armis ſpes eſt.</hi>
+            </p>
+            <p>Our Saviour adviſeth, that He who will go to Warr ſhould compute firſt. In the computation you are to make, you muſt ſur<g ref="char:EOLhyphen"/>vey <hi>bona animi, bona corporis</hi> and <hi>bona fortunae.</hi> In the firſt you are to meaſure your Abilities of mind: for if you enter into warr, you muſt either go on like a man of Honour, or dy in the Bed of Honour: Next you are to conſi<g ref="char:EOLhyphen"/>der, whether your Body be able to endure the labours of War, and the extremities of hunger, thirſt, cold, heat, watching <hi>&amp;c.</hi> And laſt<g ref="char:EOLhyphen"/>ly, what ſalary or entertainment you ſhal have (for the name ſoldier is derived from the name <hi>Solde,</hi> which is pay) that you may fol<g ref="char:EOLhyphen"/>low the Warrs in an honourable
+<pb n="77" facs="tcp:102360:47"/> way, therein to uſe no violence or plundering, which will be un<g ref="char:EOLhyphen"/>worthy of you; but follow St. <hi>John Baptiſts</hi> command: <hi>Nemi<g ref="char:EOLhyphen"/>nem concutiatis: ſed contenti eſtote ſtipendiis veſtris.</hi>
+            </p>
+            <p>But now from the rude noiſe of Armes I ſhall call you to the harmonious ſounds of <hi>Muſick,</hi> worthily placed among the li<g ref="char:EOLhyphen"/>beral Arts. All creatures have an Inclination thereunto: the Birds chanting in the woods: the labo<g ref="char:EOLhyphen"/>rious Husband man and Artificer, in their ſeveral vocations alleviate their toilſome labours by their rude Accents, making melody to themſelves: and in all Ages Mu<g ref="char:EOLhyphen"/>ſick hath been eſteemed quality becoming a noble perſonage. <hi>The<g ref="char:EOLhyphen"/>miſtocles</hi> the Athenian, as <hi>Tully</hi> ſaith) <hi>Quia non poter at fidibus ca<g ref="char:EOLhyphen"/>nere, habitus eſt indoctior.</hi>
+            </p>
+            <pb n="78" facs="tcp:102360:48"/>
+            <p>Muſick is either Vocal or In<g ref="char:EOLhyphen"/>ſtumental. Vocal is beſt, becauſe made by God himſelf, adding thereunto the livelyneſs of the Muſician, ſinging ſome excellent compoſed Poem, well fitted to the Muſick: and in this kind theſe latter times have been moſt ex<g ref="char:EOLhyphen"/>quiſite. But you will be moſt compleat, when you joyn the vocal and inſtrumental both toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Great is the power of Muſick. In the Kingdome of <hi>Naples,</hi> there is a ſmall creature called the <hi>Ta<g ref="char:EOLhyphen"/>rantula;</hi> any one bitten with it falleth into a phrenſy, and the proper cure for him is Muſick; whereby he is recovered.</p>
+            <p>Muſick did allay the evil ſpirit of <hi>Saul.</hi> Muſick prepared <hi>Eliſha</hi> the Prophet to recieve his Inſpi<g ref="char:EOLhyphen"/>rations. Muſick advanced Gods
+<pb n="79" facs="tcp:102360:48"/> honour and ſervice in the Tem<g ref="char:EOLhyphen"/>ple, and the Happineſs in Heaven <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s deſcribed and ſet forth unto <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s by Muſick and Singing.</p>
+            <p>Memorable is that which St. <hi>Auſtin</hi> relateth of his converſion in the book of his Confeſſions) <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>um reminiſcor lacrymas meas <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as fudi ad cantus Eccleſiae tuae <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> primordiis recuperatae fidei meae, <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>agnam inſtituti hujus utilitatem <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gnoſco.</hi>
+            </p>
+            <p>They ſay in our Engliſh Co<g ref="char:EOLhyphen"/>lonies in <hi>Virginia</hi> and <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> and the ſummer Ilands, the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns give wonderfull attention to the Singing of Pſalms, and hereby are ſo taken and delight<g ref="char:EOLhyphen"/>ed, that it is a ſpecial means of their converſion to the Chriſtian Faith.</p>
+            <p>I have ſent you a book of the Pſalmes compoſed in four parts,
+<pb n="80" facs="tcp:102360:49"/> an excellent compoſure, whereby you may be invited to proceed farther in this divine faculty. When you are oppreſſed with ſerious and weighty buſineſs, to take your viol and ſing to it, will be a ſingular eaſe and refreſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Subſervient to this faculty of Muſick is <hi>Dancing,</hi> a meaſure of the feet: and this is alſo a ſin<g ref="char:EOLhyphen"/>gular Ornament to a Gentleman, conducing to a comely poſture of his Body in his ſalutation of others, or otherwiſe to adapt him to a <hi>Decorum</hi> in his deportment and behaviour.</p>
+            <p>This Quality hath advanced many perſons unto Honour. Q. <hi>Elizabeth,</hi> a Princeſs of ſingular judgement in the choice of her Servants and great Officers of State, by ſeeing Sr. <hi>Chriſtopher
+<pb n="81" facs="tcp:102360:49"/> Hatton</hi> dancing in a Mask (then but a private Gentleman of the Inner Temple) advanced him to the Dignity and place of Lord High Chancellor of <hi>England,</hi> the higheſt officer of State, next unto <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er Perſon, for honour and truſt.</p>
+            <p>Some rigid Divines hold it un<g ref="char:EOLhyphen"/>lawfull and impious to dance, af<g ref="char:EOLhyphen"/>firming that <hi>Chorea eſt circulus cu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us centrum eſt diabolus,</hi> but others, <hi>quorum melior ſententia menti,</hi> eſteem it not onely lawfull, but uſefull alſo, for the raiſing of no<g ref="char:EOLhyphen"/>ble ſpirits to high and heroick actions. Masks and other Court<g ref="char:EOLhyphen"/>ly recreations of Gallant Gen<g ref="char:EOLhyphen"/>tlemen and Ladyes of Honour, ſtriving to exceed one the other in their meaſures and changes, and in their reparts of wit and com<g ref="char:EOLhyphen"/>plement have been beyond the
+<pb n="82" facs="tcp:102360:50"/> Power of envy to diſgrace.</p>
+            <p>Amongſt other Arts I muſt commend unto you, that which is of very great neceſſity, eſpecially for Oeconomy and Government of your Houſe: I mean, <hi>Arith<g ref="char:EOLhyphen"/>metick.</hi> Sir <hi>John Higford,</hi> famous for his Hoſpitality, kept a diary of all his expenſes. The Great Earls of <hi>Warwick,</hi> unto whom our An<g ref="char:EOLhyphen"/>ceſtors had ſome Relation, took accounts from their officers and ſervants of all the Charge and Proviſion of their Houſe keeping (which I can yet produce) even to the gaging of the Hogſheds of Beer.</p>
+            <p>The Right Honourable the Lord <hi>Scudamore</hi> is in an extraordinary meaſure verſed in this rare facul<g ref="char:EOLhyphen"/>ty, and when I had the honour to wait upon his Lordſhip, concerning the Treaty of Marriage with your
+<pb n="83" facs="tcp:102360:50"/> worthy Mother, the Government of his Houſe was ſo well contri<g ref="char:EOLhyphen"/>ved, every officer recieving the Proviſion, one from another, with ſuch order, honour and bounty, that the managing of his Houſe-keeping (I want expreſſi<g ref="char:EOLhyphen"/>on) did appear to be <hi>tanquam <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ies ordinata,</hi> Believe it, <hi>Thrift is the Jewell of Magnificence.</hi>
+            </p>
+            <p>I may no longer omit that which I account an Eſſential part of a Gentleman, namely, <hi>Travell</hi> beyond the ſeas into foreign Countryes: And I could heartily wiſh, that with ſome other young Gentleman, under the conduct of ſome Grave and learned per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on, you might reſort to ſome famous Univerſity, either in the remoteſt part of <hi>France,</hi> or <hi>Italy,</hi> from the converſe of the Engliſh Nation; that you might for a time
+<pb n="84" facs="tcp:102360:51"/> ſtudy Philoſophy and the Arts. Certainly, upon his dunghill, the Engliſh Gentleman is ſomewhat ſtubborn and churliſh: Travell will ſweeten him very much, and imbreed in him Courteſy, Affa<g ref="char:EOLhyphen"/>bility, Reſpect and Reſervation.</p>
+            <p>In your Travell, it will be obvious to you to obſerve the ſituations of Townes, Cities, Ri<g ref="char:EOLhyphen"/>vers, and the diſtances of high wayes and ſtages for your Iour<g ref="char:EOLhyphen"/>ney: ſo alſo for the commodities of each Province or Countrey:
+<q>Et quid quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ferat regio, &amp; quid ferre recuſet.</q>
+            </p>
+            <p>But you muſt not reſt there: You muſt tranſcend to higher Notions.</p>
+            <q>Tu regere Imperio populos, Romane, memento.</q>
+            <p>Your obſervations in Tra<g ref="char:EOLhyphen"/>vell muſt be verſed in the poli<g ref="char:EOLhyphen"/>tie
+<pb n="85" facs="tcp:102360:51"/> and ordering of States, eſpecially Monarchies, becauſe almoſt all the World is under the ſubjection of Monarchs.</p>
+            <p>In the <hi>Monarchies</hi> therefore, you are eſpecially to obſerve the ſtate and magnificence of the Prince, his Nobility, his Pen<g ref="char:EOLhyphen"/>ſioners, his Gaurds, his Genius and diſpoſition, his prime Fa<g ref="char:EOLhyphen"/>vourites, his Great Officers of State, his Counſellors of State, the manner of their proceſſion, how they take places; their ſeve<g ref="char:EOLhyphen"/>rall Commands, Authorities and juriſdictions. Then, to obſerve his Courts of Juſtice, the quality of his Judges; the proceſſes, pleadings and progreſſions for Hearing, as well in cauſes crimi<g ref="char:EOLhyphen"/>nal as civil; and the Reſults, Sentences, Appeals, Arreſts, Judgments depending thereupon:
+<pb n="86" facs="tcp:102360:52"/> The latitude alſo and power of every Court of Juſtice. Then are you to conſider his Forces, what number he is able to bring into the Field, his Cavalry, his In<g ref="char:EOLhyphen"/>fantry, the condition of his ſol<g ref="char:EOLhyphen"/>diers, whether mercenary, auxi<g ref="char:EOLhyphen"/>liar, or natural (which is the beſt ſort) their diſcipline and order. Next, to conſider his Forces at Sea, the ſituation, capacity and convenience of his Havens and ports; what veſſels and of what burthen he is able to ſet to Sea: and then, for the maintenance of both, you may ſurvey his Am<g ref="char:EOLhyphen"/>munition, his Storehouſes, Ma<g ref="char:EOLhyphen"/>gazins and Arſenalls: Then, what revenewes and intreates he hath to maintain, ſupport and defray the charge of his Forces both by Sea and Land: And therein to take notice of his marks
+<pb n="87" facs="tcp:102360:52"/> of ſoveraingnty, what he can do, with, and without his people: And therein to conſider his Trea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ry, his Exchecker and Finaces, his Crown Lands, his Cuſtomes, Priviledges and Flowers of his Crown: Then, his extraordina<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, what Contributions, Subſides, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ids, Impoſitions and Gabells <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e raiſeth from his People. Then <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e you to conſider his Friends and Allyes: what his leagues are, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hither offenſive, or defenſive, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r both: and of what continuance <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey are like to be. Then you <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay look upon his Religion, his <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>leargy and the Goverment <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them, their Rites and Ceremo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, Liturgy, Sermons and Te<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers. Then are you to have re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urſe to the Univerſities, and in <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em the moſt famous Men, their <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>putations and controverſies,
+<pb n="88" facs="tcp:102360:53"/> and whatſoever more you ſhall finde rare and fit for imitation, when you return into <hi>England.</hi>
+            </p>
+            <p>Now for the Commodiousneſs of your Travell, it concerneth you to be skild in the <hi>Languages</hi> of ſuch countryes, wherein you are to travell. The <hi>French</hi> is moſt in uſe. It is a moſt ſweet Tongue, called <hi>the Womans Tongue;</hi> and, as I think, for the Addreſſes from the ſervant to the Miſtris, and from the ſubject to the Sove<g ref="char:EOLhyphen"/>raigne there is no ſweeter, nor more civil Language in the World. Some progreſſion were fit for you to make in this uſefull Language.</p>
+            <p>Some of your good friends have very much enabled them<g ref="char:EOLhyphen"/>ſelves, and gained much honour and reputation by their Reſidence in forein parts.</p>
+            <p>The Lord <hi>Scudamore</hi> hath
+<pb n="89" facs="tcp:102360:53"/> required much honour to our Nation by his Ambaſſage into <hi>France:</hi> his directtion and Ad<g ref="char:EOLhyphen"/>dreſſes to ſome of his noble Friends there, will be an eſpeciall Advantage to you.</p>
+            <p>The late Sr. <hi>Iohn Scudamore,</hi> unfortunately deceaſed, brought come many rare Books, and obſervations of his Travell, which are well worth your peruſall, if they might be gotten. I was in my particular much bound unto him for his Favours. He viſited and careſſed me when I was a Priſoner, and did me noble offices, which here I mention in honour to his Memory.</p>
+            <p>I muſt not forget the Princely exerciſe of <hi>Hunting,</hi> wherein the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gacity of the irrational creature <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s very obſervable,
+<q>Et odora canum vis.</q>
+            </p>
+            <pb n="90" facs="tcp:102360:54"/>
+            <p>Hunting is uſefull, to know the ſituation and diſtance of places, &amp; to enure your Body to labour, and by the bounty of your Horſe to clime the Hills and deſcend the Vallies, like young <hi>Aſcani<g ref="char:EOLhyphen"/>us,</hi>
+               <q>Nunc hos curſu, nunc praeterit illos.</q>
+            </p>
+            <p>So alſo is the Gentile exerciſe of <hi>Hawking,</hi> more eſpecially at the River, to ſee the Falcon leſſen her ſelf, and to fall down upon the Foul like a Thunder<g ref="char:EOLhyphen"/>bolt.</p>
+            <p>Theſe are noble ererciſes, if the convenience of your Eſtate and affairs may afford you a diſpenſation to make uſe of them.</p>
+            <p>There are alſo other parts becoming a Gentleman, as Lim<g ref="char:EOLhyphen"/>ming,
+<pb n="91" facs="tcp:102360:54"/> Portraying with the Pen<g ref="char:EOLhyphen"/>ſile and many other, which I leave to your own Election and Judgement.</p>
+         </div>
+         <div type="conclusion">
+            <pb facs="tcp:102360:55"/>
+            <pb n="93" facs="tcp:102360:55"/>
+            <head>The Concluſion.</head>
+            <p>
+               <hi>TO conclude with a ſtory: Sempronius Gracchus,</hi> Father of <hi>Caius</hi> and <hi>Tiberius Gracchus,</hi> obſerving the tur<g ref="char:EOLhyphen"/>bulent diſpoſitions of his two Sons, perſuaded them to reſide in the Country at his Farm, there to negotiate in his affairs of husbandry: but his ſaid Sons, being of a more boyling and tumultu<g ref="char:EOLhyphen"/>ous humour (They after<g ref="char:EOLhyphen"/>ward
+<pb n="94" facs="tcp:102360:56"/> became incendiaries in the State of <hi>Rome</hi>) would not hearken to their Fathers commands, but reſolved to abide in the City, at that time the Theater of the World for high Atchieve<g ref="char:EOLhyphen"/>ments and Actions. Their Father not prevailing with them, uſed and delivered unto them theſe words: <hi>My Sons, if</hi> you will not return into the Country, as I deſired, then take care, I pray you that you act no<g ref="char:EOLhyphen"/>thing <hi>Indignum Nomine Sem<g ref="char:EOLhyphen"/>pronio.</hi>
+            </p>
+            <p>You My dear Coſon,
+<pb n="95" facs="tcp:102360:56"/> derive ſome honour from your late Father, much more ennobled by your worthy Mother. Act nothing, I be<g ref="char:EOLhyphen"/>ſeech you, that ſhall be un<g ref="char:EOLhyphen"/>worthy of your Anceſtors, from whom you deſcend.</p>
+            <p>But I have a better con<g ref="char:EOLhyphen"/>fidence of you; and your Name hath been alſo very fortunate to our family: <hi>Bo<g ref="char:EOLhyphen"/>num nomen, bonum Omen.</hi> I hope it will be verifyed of you, as it was of <hi>Jhon Bap<g ref="char:EOLhyphen"/>tist</hi> in the perſon of <hi>Elias: Joannes cum venerit reſtituet omnia.</hi>
+            </p>
+            <p>And for <hi>Dixton,</hi> I hope
+<pb n="96" facs="tcp:102360:57"/> it will be ſaid, the ſame which was ſaid of <hi>Rome</hi> un<g ref="char:EOLhyphen"/>der the Government of <hi>Au<g ref="char:EOLhyphen"/>guſtus, L<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>teritiam invenit, reliquit marmoream.</hi>
+            </p>
+            <p>And to that purpoſe I ſhall commend you to God in my prayers: God ſo bleſs and govern you, that you may be a contentment to your ſelf, a comfort to your worthy Mother, an Honour to our decayed Fa<g ref="char:EOLhyphen"/>mily (to me your well doing an unſpeakable Joy) and which is the ſumme of all, that you may be the faith<g ref="char:EOLhyphen"/>full Servant of Almighty
+<pb n="97" facs="tcp:102360:57"/> God, to live in his fear, and dy in his Favour Amen.</p>
+            <trailer>DEO GLORIA.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
